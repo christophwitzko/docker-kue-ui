@@ -1,0 +1,27 @@
+{
+  "name": "docker-kue-ui",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophwitzko/docker-kue-ui.git"
+  },
+  "author": "Christoph Witzko <npm@christophwitzko.com> (http://christophwitzko.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christophwitzko/docker-kue-ui/issues"
+  },
+  "homepage": "https://github.com/christophwitzko/docker-kue-ui#readme",
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "dependencies": {
+    "kue": "^0.9.6"
+  }
+}
