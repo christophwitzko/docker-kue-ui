@@ -22,6 +22,6 @@
     "standard": "^6.0.4"
   },
   "dependencies": {
-    "kue": "^0.10.4"
+    "kue": "^0.10.5"
   }
 }
