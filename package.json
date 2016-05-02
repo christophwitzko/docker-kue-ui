@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/christophwitzko/docker-kue-ui#readme",
   "devDependencies": {
-    "standard": "^6.0.4"
+    "standard": "^7.0.0"
   },
   "dependencies": {
     "kue": "^0.10.5"
